@@ -10,3 +10,7 @@ imagic
 
 gd
 
+redis
+ 
+  monogodb
+  yaf
