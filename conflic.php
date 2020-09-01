@@ -9,8 +9,9 @@ swoole
 imagic
 
 gd
-
+google
+tencent
 redis
- 
+ aliyun
   monogodb
   yaf
